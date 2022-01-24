@@ -1,6 +1,6 @@
 # firebase_project
 
-A new Flutter project.
+A very simple Project with Anonymous Login connected to Firebase.
 
 ## Getting Started
 
